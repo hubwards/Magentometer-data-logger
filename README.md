@@ -1,1 +1,1 @@
-# Magentometer-data-logger
+# Magentometer-data-logger  initialgit hub tutorial training
